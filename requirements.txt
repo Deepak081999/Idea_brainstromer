@@ -1,0 +1,9 @@
+#requirements.txt
+# =====================
+streamlit
+langgraph
+google-generativeai
+jsonpickle
+numpy
+fuzzywuzzy
+python-Levenshtein
