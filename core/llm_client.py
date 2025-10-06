@@ -3,7 +3,7 @@ import os
 
 
 # Configure Gemini API Key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAV78NyJ--aPHcX2kMQc7aPL9w_20nNVbg"
+os.environ["GOOGLE_API_KEY"] = "GEMINI_API_KEY"
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
 
